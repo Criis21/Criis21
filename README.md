@@ -1,4 +1,4 @@
-<img src="./img/codeBanner1.jpg" alt="Header Image">
+<img src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg" alt="Header Image">
 
 ## About Me
 
