@@ -1,4 +1,4 @@
-<img src="./img/codeBanner1.jpg" alt="Header Image">
+<img src="../img/codeBanner1.jpg" alt="Header Image">
 
 ## About Me
 
