@@ -16,33 +16,28 @@
 </p>
 <br>
 
-<tr>
-    <td>
-        ### Frontend Languages/Frameworks:
-
-        <p align="justify">
-            <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./Icons/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./Icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./Icons/html5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
-        </p>
-    </td>
-    <td>
-        ### Backend Languages/Frameworks:
-
-        <p align="justify">
-            <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./icons/flask-logo-svg.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./icons/nodejs-logo-svg.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
-            <img src="./icons/mysql-logo-svg.svg" alt="MySQL" width="40" height="40"/>
-
-        </p>
-    </td>
-</tr>
  
+### Frontend Languages/Frameworks:
+<p>
+<p align="left">
+    <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/html5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
+</p>
 
+### Backend Languages/Frameworks:
+
+<p align="right">
+    <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/flask-logo-svg.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/nodejs-logo-svg.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./icons/mysql-logo-svg.svg" alt="MySQL" width="40" height="40"/>
+
+</p>
+</p>
 ### Environments/Others I work with:
 
 <p align="justify">
