@@ -11,8 +11,6 @@
 
 ## My Skills
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jesus-cano-ortega" alt="GitHub Stats"> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-cano-ortega&layout=compact" alt="Top Languages"> -->
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Criis21&card_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criis21&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
 </p>
@@ -21,12 +19,12 @@
 ### Frontend Languages/Frameworks:
 
 <p align="justify">
-    <img src="./icons/javascript-logo-svg.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/react-logo-svg.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/sass-logo-svg.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/bootstrap-logo-svg.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/css3-logo-svg.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/html-logo-svg.svg" alt="HTML5" width="40" height="40"/>
+    <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/html5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
 ### Backend Languages/Frameworks:
