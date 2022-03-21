@@ -17,9 +17,10 @@
 <br>
 
  
-### Frontend Languages/Frameworks:
+
 <p>
 <p align="left">
+<p>Frontend Languages/Frameworks:</p>
     <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
@@ -28,16 +29,18 @@
     <img src="./Icons/html5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
 </p>
 
-### Backend Languages/Frameworks:
+
 
 <p align="right">
-    <img src="./icons/python-logo-svg.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/flask-logo-svg.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/nodejs-logo-svg.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/mysql-logo-svg.svg" alt="MySQL" width="40" height="40"/>
+<p>Backend Languages/Frameworks:</p>
+    <img src="./Icons/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/pocoo_flask-ar21.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/node-svgrepo-com.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/mysql-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>
 
 </p>
 </p>
+
 ### Environments/Others I work with:
 
 <p align="justify">
