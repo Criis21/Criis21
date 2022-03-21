@@ -17,10 +17,8 @@
 <br>
 
  
-
-<p>
-<p align="left">
-<p>Frontend Languages/Frameworks:</p>
+## Backend Languages/Frameworks:
+<p align="justify">
     <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
@@ -30,23 +28,19 @@
 </p>
 
 
-
-<p align="right">
-<p>Backend Languages/Frameworks:</p>
+## Backend Languages/Frameworks:
+<p align="justify">
     <img src="./Icons/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/pocoo_flask-ar21.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/node-svgrepo-com.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
     <img src="./Icons/mysql-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
-</p>
-</p>
 
 ### Environments/Others I work with:
 
 <p align="justify">
-    <img src="./icons/git-logo-svg.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/github-logo-svg.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/vscode-logo-svg.svg" alt="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/adobexd-logo-svg.svg" alt="AdobeXd" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./icons/figma-logo-svg.svg" alt="Figma" width="40" height="40"/>
+    <img src="./Icons/git-svgrepo-com.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/github-svgrepo-com.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="./Icons/vscode-svgrepo-com.svg" alt="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
 </p>
