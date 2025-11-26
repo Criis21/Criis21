@@ -1,13 +1,11 @@
-<img src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg" alt="Header Image">
+
 
 ## About Me
 
-<p align="justify">Hi, I'm Mª Cristina Fernández, an expert barista turned fullstack developer. I adore coffee and the frontEnd.
+<p align="justify">Hi, I'm Mª Cristina Fernández, an expert barista. I adore coffee.
 </p>
 
-- <p align="justify">Programming Skills: | Frontend: HTML5, CSS3, Sass, Bootstrap, Webpack, JavaScript, ReactJS | Backend: Python, Flask, NodeJS, MySQL DB, API Rest | Version Control: Git and GitHub.</p>
-
-- <p align="justify">Personal Skills (Soft Skills):  team player, creative storyteller, problem solving, critical thinker (and open to criticism).</p>
+- <p align="justify">Versatile person capable of multitasking. Extensive experience in work environments where commitment and teamwork are valued. I am known for my dynamism, proactivity, and enthusiasm. I have strong digital skills. I am looking to develop professionally.</p>
 
 ## My Skills
 
