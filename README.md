@@ -10,30 +10,45 @@
 ## My Skills
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Criis21&card_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criis21&layout=compact&card_width=275&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
+- Customer service and support.
+- Teamwork to facilitate the achievement of objectives.
+- Efficient completion of assigned tasks.
+- Customer sales offering quality service.
+- Preparation of reports and documentation.
+- Problem solving and incident management.
+- Performing administrative tasks.
+- Use of computer and technology systems.
+- Documentation and file management.
+- Constant updating of knowledge necessary for the position.
+- Collaboration with different departments within the company.
+- Telephone support and management of company email.
+- Task and deadline management.
+- Preparation and sending of correspondence and emails.
+- Control and monitoring of budgets and expenses.
+- Coordination and planning of meetings.
+- Development of projects and programs.
+- Efficient management of the team of professionals in charge.
 </p>
 <br>
 
  
-## Backend Languages/Frameworks:
+## Backend Languages:
 <p align="justify">
-    <img src="./Icons/javascript-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/react-svgrepo-com.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/sass-svgrepo-com.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/html5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
+- HTML5
+- CSS3
+- REACT
+- JAVASCRIPT
+- BOOTSTRAP
+- PYTHON
+- Teamwork
+- Ability to learn
+- Punctuality and responsibility
+- Communication
+- Flexibility and adaptability
+- Customer service
+- Empathy
+- Problem solving
 </p>
-
-
-## Backend Languages/Frameworks:
-<p align="justify">
-    <img src="./Icons/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/pocoo_flask-ar21.svg" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/node-svgrepo-com.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="./Icons/mysql-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
 
 ### Environments/Others I work with:
 
